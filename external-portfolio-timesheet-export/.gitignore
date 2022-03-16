@@ -1,0 +1,10 @@
+auth.rb
+export*.csv
+SAPErrors*.csv
+E1CATS_INSERT*.xml
+E1BPCATS1*.xml
+E1BPCATS8*.xml
+temp.fil
+.DS_Store
+test*
+.byebug_history
